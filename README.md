@@ -7,16 +7,16 @@ this repo contains python projects from very basic level to advanced level that 
 * [ ] Quick Sort Algorithm
 * [ ] Heap Sort Algorithm
 * [ ] Jump Search Algorithm
-* [ ] Hangman Game in cmd
-* [ ] Contact Book App
 * [ ] Rock Paper Scissors
 * [ ] Calculator App using python
 * [ ] Random Password Generator
 * [ ] Random Quote generator
-* [ ] Currency Converter
 
 ## Intermediate Projects(tkinter,GUI,flask)
 --------------------------------------------
+* [ ] Hangman Game
+* [ ] Contact Book App
+* [ ] Currency Converter
 * [ ] Weather App 
 * [ ] Rest api 
 * [ ] Todo App
@@ -30,6 +30,12 @@ this repo contains python projects from very basic level to advanced level that 
 * [ ] Ad Blocker for a website
 * [ ] Restaurant Management System
 * [ ] Earth Surface temperature visualisation
+* [ ] Generate directory structure in tkinter
+* [ ] Build a grade book using python and pandas
+* [ ] Build a discord bot
+* [ ] Make an instagram bot
+* [ ] MP4 Player
+* [ ] Alarm tool as in windows
 
 ## Django Projects
 ----------------------
